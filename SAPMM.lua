@@ -29,7 +29,7 @@ ScreenGui.ZIndexBehavior = Enum.ZIndexBehavior.Sibling
 ----------------------------------------------------------------
 task.spawn(function()
     task.wait(1)
-    local execMsg = "✌🏻 😝LOLIPOP EDITION USER DETECTED ⚠️ (MADE BY MonK🦁 (@SUPERMONKXSCRIPTS) 🔥"
+    local execMsg = "✌🏻 😝MONK EDITION USER DETECTED ⚠️ (MADE BY MonK💀 (SUPERMONK) 🔥"
     local border = "(!)(!)(!)(!)(!)(!)(!)(!)(!)(!)(!)(!)(!)(!)"
     local fullExecMessage = border .. "\n" .. execMsg .. "\n" .. border
 
