@@ -76,7 +76,7 @@ IntroText.Parent = IntroFrame
 -- Pop-up Roblox Notification
 task.spawn(function()
     StarterGui:SetCore("SendNotification", {
-        Title = "TOXIC 🦁",
+        Title = "MONK 🦁",
         Text = "🥶 I WILL BE FIGHTING FOR U DON'T WORRY MY FRIEND ✨",
         Duration = 5
     })
@@ -173,7 +173,7 @@ local OwnerText = Instance.new("TextLabel")
 OwnerText.Size = UDim2.new(1, 0, 1, 0)
 OwnerText.BackgroundTransparency = 1
 OwnerText.Font = Enum.Font.GothamBold
-OwnerText.Text = "👑 OWNER : TOXIC 🦁🔥✌🏻 | 🥶 ALWAYS READY TO FIGHT"
+OwnerText.Text = "👑 OWNER : MONK 🦁🔥✌🏻 | 🥶 ALWAYS READY TO FIGHT"
 OwnerText.TextColor3 = Color3.fromRGB(255, 100, 100)
 OwnerText.TextSize = 12
 OwnerText.TextXAlignment = Enum.TextXAlignment.Center
